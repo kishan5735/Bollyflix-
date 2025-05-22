@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search
+Disallow: /category/
+Disallow: /tag/
+Allow: /
+Sitemap: https://www.bolly-flixs.site/sitemap.xml
+Sitemap: https://www.bolly-flixs.site/sitemap-pages.xml
