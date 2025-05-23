@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.bolly-flixs.site/sitemap.xml
